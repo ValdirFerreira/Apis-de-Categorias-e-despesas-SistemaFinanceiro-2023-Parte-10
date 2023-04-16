@@ -1,0 +1,72 @@
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Entities\obj\Debug\net7.0\ref\Entities.dll

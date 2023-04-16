@@ -1,0 +1,72 @@
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte9\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte10\Helpers\obj\Debug\net7.0\ref\Helpers.dll
