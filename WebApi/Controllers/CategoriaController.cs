@@ -27,7 +27,7 @@ namespace WebApi.Controllers
         [Produces("application/json")]
         public async Task<object> ListarCategoriasUsuario(string emailUsuario)
         {
-            return _InterfaceCategoria.ListarCategoriasUsuario(emailUsuario);
+            return await _InterfaceCategoria.ListarCategoriasUsuario(emailUsuario);
         }
 
         [HttpPost("/api/AdicionarCategoria")]

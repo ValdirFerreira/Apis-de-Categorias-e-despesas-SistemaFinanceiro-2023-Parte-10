@@ -34,7 +34,7 @@ namespace WebApi.Controllers
         {
             await _ISistemaFinanceiroServico.AdicionarSistemaFinanceiro(sistemaFinanceiro);
 
-            return Task.FromResult(sistemaFinanceiro);
+            return sistemaFinanceiro;
         }
 
         [HttpPut("/api/AtualizarSistemaFinanceiro")]
