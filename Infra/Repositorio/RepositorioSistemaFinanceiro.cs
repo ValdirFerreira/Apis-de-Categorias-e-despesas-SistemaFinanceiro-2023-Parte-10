@@ -73,6 +73,7 @@ namespace Infra.Repositorio
                                 d.DataCadastro = dataatual;
                                 d.DataPagamento = DateTime.MinValue;
                                 d.Pago = false;
+                                d.Id = 0;
                             });
 
                             if (despesasSistem.Any())
